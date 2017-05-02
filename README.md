@@ -11,8 +11,8 @@ Animation Menu within TabBar
 
 ## Features :
 - Fully suppout Auto-layout (Kinda looks good on iPhone SE size)
-- Custome Tabbar
-- Easy to customize
+- Customize Tabbar
+- Customize Menu
 
 ## Important Note :
 
